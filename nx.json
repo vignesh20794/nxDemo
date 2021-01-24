@@ -25,6 +25,7 @@
     "admin-e2e": { "tags": [], "implicitDependencies": ["admin"] },
     "client": { "tags": [] },
     "client-e2e": { "tags": [], "implicitDependencies": ["client"] },
-    "utility": { "tags": ["ui", "angular"] }
+    "utility": { "tags": ["ui", "angular"] },
+    "shared-ui": { "tags": [] }
   }
 }

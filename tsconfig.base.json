@@ -15,7 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@nxt/utility": ["libs/utility/src/index.ts"]
+      "@nxt/utility": ["libs/utility/src/index.ts"],
+      "@nxt/shared-ui": ["libs/shared-ui/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
